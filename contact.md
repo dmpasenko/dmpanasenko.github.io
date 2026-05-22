@@ -1,9 +1,8 @@
 ---
 layout: single
-title: Contact
+title: 
 permalink: /contact/
 ---
-
 
 # Contact
 
