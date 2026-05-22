@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
 title: Research
+permalink: /research/
 ---
+
 
 # Research
 
