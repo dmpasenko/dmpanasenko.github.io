@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Home
+layout: single
+author_profile: true
+title: "Home"
+permalink: /
 ---
+
 
 # Dmitrii Panasenko's Homepage
 
