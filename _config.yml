@@ -12,3 +12,5 @@ header_pages:
 - publications.md
 - contact.md
 
+permalink: pretty
+
