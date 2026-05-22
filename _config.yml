@@ -12,7 +12,8 @@ author:
   # name: "Dmitrii Panasenko"
   # avatar: "/assets/profile.jpg"
   bio: "PhD Student"
-  location: "Umeå University (UMU), Sweden"
+  location: "Umeå University (UMU)" 
+  location: "Umeå, Sweden"
   links:
     - label: "Email (UMU)"
       url: "mailto:dmitrii.panasenko@umu.se"
