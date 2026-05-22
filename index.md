@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-# Dmitrii Panasenko
+# Dmitrii Panasenko's Homepage
 
-Doctoral researcher based in Sweden.
+PhD Student in Mathematics based in Sweden.
 
-My research focuses on [your field].
+My research focuses on TBA.
 
 Welcome to my personal homepage.
