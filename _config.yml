@@ -6,15 +6,7 @@ plugins:
 title: Dmitrii Panasenko
 description: PhD Student
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Contact"
-    url: /contact/
+minimal_mistakes_skin: default
 
 author:
   name: "Dmitrii Panasenko"
