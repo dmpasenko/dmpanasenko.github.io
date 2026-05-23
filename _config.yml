@@ -15,14 +15,16 @@ extra_css:
 
 author:
   avatar: "/assets/profile.jpg"
-  bio: "PhD student at Umeå University (UMU)"
+  bio: "PhD student at Umeå University"
   location: "Umeå, Sweden"
   links:
-    - label: "Email (UMU)"
+    - label: "Email (Work)"
       url: "mailto:dmitrii.panasenko@umu.se"
     - label: "Email (Personal)"
       url: "mailto:makare95@mail.ru"
     - label: "ORCID"
       url: "https://orcid.org/0000-0003-4612-6541"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=v6wsLukAAAAJ"
     - label: "GitHub"
       url: "https://github.com/dmpanasenko"
