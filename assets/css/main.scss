@@ -12,8 +12,14 @@ body {
   line-height: 1.1;
 }
 
+.archive {
+  width: calc(100% - 180px) !important;
+  padding-left: 2em;
+}
+
 .sidebar {
   opacity: 1 !important;
+  width: 180px !important;
 }
 
 .author__avatar,
@@ -31,6 +37,6 @@ body {
   opacity: 1 !important;
 }
 
-.author__urls-wrapper .btn {
-  display: none;
+.author__avatar img {
+  max-width: 170px !important;
 }
