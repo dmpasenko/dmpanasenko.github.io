@@ -40,12 +40,3 @@ body {
 .author__avatar img {
   max-width: 130px !important;
 }
-
-.author__urls-wrapper .btn {
-  font-size: 0;
-}
-
-.author__urls-wrapper .btn::after {
-  content: "Contacts";
-  font-size: 12px;
-}
