@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+/* Custom tweaks below */
+
+body {
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
