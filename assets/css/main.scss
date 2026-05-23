@@ -12,15 +12,12 @@ body {
   line-height: 1.1;
 }
 
-.author__avatar,
-.author__avatar img,
-.author__avatar:hover,
-.author__avatar img:hover {
-  filter: none !important;
-  opacity: 1 !important;
+.sidebar {
+  filter: none;
 }
 
-.sidebar .author__avatar img {
-  filter: none !important;
-  opacity: 1 !important;
+.sidebar * {
+  filter: none;
+  opacity: 1;
+  transition: none;
 }
