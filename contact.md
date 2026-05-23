@@ -2,10 +2,10 @@
 layout: single
 title: ""
 author_profile: true
-permalink: /contact/
+permalink: /Talks/
 ---
 
-# Contact
+# Talks
 
-- Email: a@a.com
-- GitHub: https://github.com/a
+- Talk 1 (2025)
+- Talk 2 (2024)
