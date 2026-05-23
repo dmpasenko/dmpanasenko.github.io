@@ -5,7 +5,7 @@ author_profile: true
 permalink: /cv/
 ---
 
-## Current CV
+# Current CV
 
 You can download my CV here:
 
