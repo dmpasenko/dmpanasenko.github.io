@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 title: ""
 permalink: /
-classes: wide
 ---
 
 # About Me
