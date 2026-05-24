@@ -7,7 +7,7 @@ permalink: /research/
 
 # Research
 
-My research focuses on TBA.
+TBA
 
 Papers:
 - Paper 1 (2025)
