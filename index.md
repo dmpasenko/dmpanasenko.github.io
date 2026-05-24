@@ -5,10 +5,10 @@ title: ""
 permalink: /
 ---
 
-# Dmitrii Panasenko's Homepage
+# About Me
 
-PhD Student in Mathematics based in Sweden.
+I am a PhD Student in mathematics at [Umeå University](www.umu.se/en/staff/dmitrii-panasenko/), Sweden. Previously, I was a postgraduate researcher at Krasovskii Institute of Mathematics and Mechanics, Russia.
 
-My research focuses on TBA.
+My current research focuses on combinatorial optimization, in particular the Traveling Salesman Problem. 
 
-Welcome to my personal homepage.
+I am also interested in algebraic graph theory, especially problems related to Deza graphs, divisible design graphs, and eigenfunctions of graphs.
